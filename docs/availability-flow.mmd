@@ -1,0 +1,24 @@
+flowchart TD
+  A[Family creates account] --> B[Instruction screen, fields hidden]
+  B --> C[Family selects time buckets per day]
+  C --> D[Submit]
+  D --> E{Validation runs after submit}
+  E -->|enough availability| F[Availability record stored]
+  E -->|short| G[Coach family through what is missing]
+  G --> C
+  F --> H[Bucket expanded to candidate intervals]
+  H --> I{Enough hours for recommended dose}
+  I -->|no| J[Operations queue, human contact]
+  I -->|yes| K[Therapist search across capacity and service area]
+  K --> L[Schedule built and offered]
+  L --> M{Family accepts}
+  M -->|no| N[Rework schedule within same buckets]
+  N --> L
+  M -->|yes| O[Assignment locked, first session set]
+  F --> P[Funnel reporting]
+  J --> P
+  O --> P
+  P --> Q[Rule tuning and design iteration]
+  Q --> B
+  O --> R[Availability change event]
+  R --> F
