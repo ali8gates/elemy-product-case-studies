@@ -2,7 +2,7 @@
 
 The availability case study covers how families were asked for their time. This one covers what happened to that time afterward, because collecting hours and having schedulable hours are two different things.
 
-![Availability data flow](availability-data-flow.png)
+![Availability, end to end](availability-swimlane.png)
 
 ## The gap
 

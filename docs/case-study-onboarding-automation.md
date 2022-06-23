@@ -2,7 +2,7 @@
 
 The program the availability work sat inside. Goal for the year was to convert family onboarding from an agent-run process into something a family completes themselves, and to cut the cost of acquiring each family while doing it.
 
-![Family onboarding funnel](onboarding-funnel.png)
+![The family onboarding journey](onboarding-journey.png)
 
 ## Starting position
 

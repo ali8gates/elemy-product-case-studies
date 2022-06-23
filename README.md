@@ -23,11 +23,11 @@ Funnel and outcome numbers are collected in [docs/outcomes.md](docs/outcomes.md)
 
 Where onboarding steps sit and what changed at each one:
 
-![Family onboarding funnel](docs/onboarding-funnel.png)
+![The family onboarding journey](docs/onboarding-journey.png)
 
 How family entered time became supply the operations team could schedule against:
 
-![Availability data flow](docs/availability-data-flow.png)
+![Availability, end to end](docs/availability-swimlane.png)
 
 Sources are in `docs/` as `.svg`, and `docs/availability-flow.mmd` is Mermaid source that Lucidchart imports directly and GitHub renders in the browser.
 

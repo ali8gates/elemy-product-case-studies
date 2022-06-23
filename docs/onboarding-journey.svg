@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800" font-family="Georgia, serif">
+<rect width="1400" height="800" fill="#fffdf8"/>
+<circle cx="1290" cy="90" r="150" fill="#c98a0e" opacity="0.10"/>
+<circle cx="90" cy="740" r="120" fill="#0f9b8e" opacity="0.10"/>
+<text x="60" y="72" font-size="34" font-weight="700" fill="#1f2933">The family onboarding journey</text>
+<text x="60" y="104" font-size="16" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">Six stops. Each one moved off the phone and into the product across 2022.</text>
+<path d="M 152 430 C 251.0 430, 251.0 350, 350 350 C 455.0 350, 455.0 420, 560 420 C 665.0 420, 665.0 340, 770 340 C 875.0 340, 875.0 415, 980 415 C 1090.0 415, 1090.0 335, 1200 335" stroke="#e7ddcd" stroke-width="16" fill="none" stroke-linecap="round"/>
+<path d="M 152 430 C 251.0 430, 251.0 350, 350 350 C 455.0 350, 455.0 420, 560 420 C 665.0 420, 665.0 340, 770 340 C 875.0 340, 875.0 415, 980 415 C 1090.0 415, 1090.0 335, 1200 335" stroke="#6b5ce7" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="2 12" opacity="0.55"/>
+<line x1="152" y1="430" x2="152" y2="506" stroke="#0f9b8e" stroke-width="2" opacity="0.5"/>
+<rect x="47" y="506" width="210" height="112" rx="16" fill="#ffffff" stroke="#0f9b8e" stroke-width="2"/>
+<text x="152" y="538" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Arrival</text>
+<text x="152" y="558" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">Interest and account</text>
+<rect x="60" y="570" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="68" y="584" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: Agent intake call</text>
+<rect x="60" y="594" width="184" height="20" rx="10" fill="#0f9b8e" opacity="0.14"/>
+<text x="68" y="608" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#0f9b8e">now: Family signs up</text>
+<circle cx="152" cy="430" r="27" fill="#0f9b8e"/>
+<circle cx="152" cy="430" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="152" y="437" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<line x1="350" y1="350" x2="350" y2="274" stroke="#2f8fd6" stroke-width="2" opacity="0.5"/>
+<rect x="245" y="162" width="210" height="112" rx="16" fill="#ffffff" stroke="#2f8fd6" stroke-width="2"/>
+<text x="350" y="194" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Availability</text>
+<text x="350" y="214" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">The week they can give</text>
+<rect x="258" y="226" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="266" y="240" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: 25 minutes on the phone</text>
+<rect x="258" y="250" width="184" height="20" rx="10" fill="#2f8fd6" opacity="0.14"/>
+<text x="266" y="264" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#2f8fd6">now: Time buckets, no call</text>
+<circle cx="350" cy="350" r="27" fill="#2f8fd6"/>
+<circle cx="350" cy="350" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="350" y="357" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<line x1="560" y1="420" x2="560" y2="496" stroke="#6b5ce7" stroke-width="2" opacity="0.5"/>
+<rect x="455" y="496" width="210" height="112" rx="16" fill="#ffffff" stroke="#6b5ce7" stroke-width="2"/>
+<text x="560" y="528" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Fit</text>
+<text x="560" y="548" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">Enough hours to treat</text>
+<rect x="468" y="560" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="476" y="574" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: Agent judgement</text>
+<rect x="468" y="584" width="184" height="20" rx="10" fill="#6b5ce7" opacity="0.14"/>
+<text x="476" y="598" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#6b5ce7">now: Rules run on submit</text>
+<circle cx="560" cy="420" r="27" fill="#6b5ce7"/>
+<circle cx="560" cy="420" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="560" y="427" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<line x1="770" y1="340" x2="770" y2="264" stroke="#c2569b" stroke-width="2" opacity="0.5"/>
+<rect x="665" y="152" width="210" height="112" rx="16" fill="#ffffff" stroke="#c2569b" stroke-width="2"/>
+<text x="770" y="184" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Cost</text>
+<text x="770" y="204" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">What care will cost</text>
+<rect x="678" y="216" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="686" y="230" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: Quoted verbally</text>
+<rect x="678" y="240" width="184" height="20" rx="10" fill="#c2569b" opacity="0.14"/>
+<text x="686" y="254" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#c2569b">now: Estimate in product</text>
+<circle cx="770" cy="340" r="27" fill="#c2569b"/>
+<circle cx="770" cy="340" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="770" y="347" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<line x1="980" y1="415" x2="980" y2="491" stroke="#f2683c" stroke-width="2" opacity="0.5"/>
+<rect x="875" y="491" width="210" height="112" rx="16" fill="#ffffff" stroke="#f2683c" stroke-width="2"/>
+<text x="980" y="523" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Matching</text>
+<text x="980" y="543" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">Therapist and schedule</text>
+<rect x="888" y="555" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="896" y="569" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: Rounds of phone tag</text>
+<rect x="888" y="579" width="184" height="20" rx="10" fill="#f2683c" opacity="0.14"/>
+<text x="896" y="593" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#f2683c">now: Schedule offered back</text>
+<circle cx="980" cy="415" r="27" fill="#f2683c"/>
+<circle cx="980" cy="415" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="980" y="422" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<line x1="1200" y1="335" x2="1200" y2="259" stroke="#c98a0e" stroke-width="2" opacity="0.5"/>
+<rect x="1095" y="147" width="210" height="112" rx="16" fill="#ffffff" stroke="#c98a0e" stroke-width="2"/>
+<text x="1200" y="179" font-size="19" font-weight="700" fill="#1f2933" text-anchor="middle">Care start</text>
+<text x="1200" y="199" font-size="12.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280" text-anchor="middle">First session booked</text>
+<rect x="1108" y="211" width="184" height="20" rx="10" fill="#f4f1ea"/>
+<text x="1116" y="225" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">was: Manual handoff</text>
+<rect x="1108" y="235" width="184" height="20" rx="10" fill="#c98a0e" opacity="0.14"/>
+<text x="1116" y="249" font-size="11" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#c98a0e">now: Handoff with the record</text>
+<circle cx="1200" cy="335" r="27" fill="#c98a0e"/>
+<circle cx="1200" cy="335" r="27" fill="none" stroke="#fffdf8" stroke-width="4"/>
+<text x="1200" y="342" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="60" y="660" width="880" height="74" rx="14" fill="#ffffff" stroke="#e7ddcd" stroke-width="2"/>
+<text x="82" y="690" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="700" fill="#1f2933">Stop 2 is the hard one.</text>
+<text x="82" y="712" font-size="13.5" font-family="Helvetica, Arial, sans-serif" fill="#6b7280">A family hands over their week before they know the cost or whether they are approved. The ask had to get lighter, not later.</text>
+</svg>
